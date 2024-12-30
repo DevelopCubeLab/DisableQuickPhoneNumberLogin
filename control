@@ -1,0 +1,9 @@
+Package: com.yourcompany.disablequickphonenumberlogin
+Name: DisableQuickPhoneNumberLogin
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 禁止一键登录
+Maintainer: null
+Author: null
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
